@@ -1,0 +1,108 @@
+\BOOKMARK [0][-]{chapter.1}{Wprowadzenie}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Opis projektu}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Procesy biznesowe}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Slownik pojec}{}% 4
+\BOOKMARK [0][-]{chapter.3}{Specyfikacja sprzetu i oprogramowania podstawowego}{}% 5
+\BOOKMARK [0][-]{chapter.4}{Specyfikacja technologii}{}% 6
+\BOOKMARK [0][-]{chapter.5}{Aktorzy}{}% 7
+\BOOKMARK [0][-]{chapter.6}{Wymagania funkcjonalne}{}% 8
+\BOOKMARK [1][-]{section.6.1}{Weryfikacja uzytkownik\363w}{chapter.6}% 9
+\BOOKMARK [2][-]{subsection.6.1}{Uzytkownik moze zalogowac sie na swoje konto.}{section.6.1}% 10
+\BOOKMARK [2][-]{subsection.6.2}{Uzytkownik moze wylogowac sie w kazdej chwili pracy w module.}{section.6.1}% 11
+\BOOKMARK [2][-]{subsection.6.3}{Uzytkownicy maja zdefiniowane prawa dostepu.}{section.6.1}% 12
+\BOOKMARK [2][-]{subsection.6.4}{W zaleznosci od nadanych praw uzytkownicy maja r\363zny zakres funkcjonalnosci modulu.}{section.6.1}% 13
+\BOOKMARK [2][-]{subsection.6.5}{W przypadku trzykrotnego niepowodzenia przy logowaniu konto uzytkownika zostaje zablokowane na czas jednej godziny.}{section.6.1}% 14
+\BOOKMARK [2][-]{subsection.6.6}{W sytuacji, gdy sesja uzytkownika jest nieaktywna dluzej niz pietnascie minut, uzytkownik zostaje automatycznie wylogowany.}{section.6.1}% 15
+\BOOKMARK [1][-]{section.6.2}{Konta uzytkownik\363w:}{chapter.6}% 16
+\BOOKMARK [2][-]{subsection.6.7}{Uzytkownik z prawami dostepu administratora ma mozliwosc stworzenia i zatwierdzenia konta uzytkownika ubiegajacego sie o nie.}{section.6.2}% 17
+\BOOKMARK [2][-]{subsection.6.8}{Uzytkownik z prawami dostepu administratora ma mozliwosc usuwania kont uzytkownik\363w modulu.}{section.6.2}% 18
+\BOOKMARK [2][-]{subsection.6.9}{Uzytkownik z prawami dostepu administratora ma mozliwosc edycji praw dostepu istniejacych uzytkownik\363w w module.}{section.6.2}% 19
+\BOOKMARK [2][-]{subsection.6.10}{Uzytkownik z prawami dostepu administratora ma mozliwosc podgladu historii zasobu.}{section.6.2}% 20
+\BOOKMARK [2][-]{subsection.6.11}{Uzytkownik z prawami dostepu administratora ma mozliwosc podgladu historii uzytkownika.}{section.6.2}% 21
+\BOOKMARK [1][-]{section.6.3}{Zarzadzanie zasobami:}{chapter.6}% 22
+\BOOKMARK [2][-]{subsection.6.12}{Uzytkownik techniczny ma mozliwosc dodawania nowych i usuwania istniejacych zasob\363w przynaleznych do danego typu.}{section.6.3}% 23
+\BOOKMARK [2][-]{subsection.6.13}{Uzytkownik techniczny ma mozliwosc, po uprzednim stwierdzeniu przez menedzera, przyznawania zasob\363w uzytkownikom, kt\363rzy zlozyli na nie zam\363wienie.}{section.6.3}% 24
+\BOOKMARK [2][-]{subsection.6.14}{Uzytkownik techniczny ma mozliwosc modyfikacji danych zasobu.}{section.6.3}% 25
+\BOOKMARK [2][-]{subsection.6.15}{Uzytkownik techniczny ma mozliwosc wprowadzania historii napraw zasob\363w dokonywanych w firmie jak i przez serwis zewnetrzny.}{section.6.3}% 26
+\BOOKMARK [2][-]{subsection.6.16}{Wszelkie modyfikacje zasobu zapisywane sa w jego historii. }{section.6.3}% 27
+\BOOKMARK [2][-]{subsection.6.17}{Kazdy uzytkownik ma mozliwosc podgladu przypisanych do niego w danej chwili zasob\363w.}{section.6.3}% 28
+\BOOKMARK [2][-]{subsection.6.18}{Uzytkownik techniczny ma mozliwosc podgladu wszystkich zasob\363w, za kt\363re jest odpowiedzialny.}{section.6.3}% 29
+\BOOKMARK [2][-]{subsection.6.19}{Uzytkownik techniczny/Administrator ma mozliwosc przegladania wszystkich zasob\363w wedlug zdefiniowanych przez siebie kryteri\363w \(np. posortowane, zgodne z wybranymi filtrami\).}{section.6.3}% 30
+\BOOKMARK [2][-]{subsection.6.20}{Administrator ma mozliwosc przegladania wszystkich zasob\363w wedlug zdefiniowanych przez siebie kryteri\363w \(np. posortowane, zgodne z wybranymi filtrami\).}{section.6.3}% 31
+\BOOKMARK [2][-]{subsection.6.21}{Uzytkownik ma mozliwosc zgloszenia checi skorzystania z zasobu.}{section.6.3}% 32
+\BOOKMARK [2][-]{subsection.6.22}{Uzytkownik ma mozliwosc zgloszenia zasobu do serwisu.}{section.6.3}% 33
+\BOOKMARK [2][-]{subsection.6.23}{Uzytkownik technicznych ma mozliwosc zmiany statusu zasobu na serwisowany.}{section.6.3}% 34
+\BOOKMARK [1][-]{section.6.4}{Zarzadzanie typami zasob\363w:}{chapter.6}% 35
+\BOOKMARK [2][-]{subsection.6.24}{Administrator ma mozliwosc dodawania i usuwania typ\363w zasob\363w}{section.6.4}% 36
+\BOOKMARK [2][-]{subsection.6.25}{Administrator ma mozliwosc edycji zespolu parametr\363w istniejacych typ\363w zasob\363w.}{section.6.4}% 37
+\BOOKMARK [1][-]{section.6.5}{Zarzadzanie modulem:}{chapter.6}% 38
+\BOOKMARK [2][-]{subsection.6.26}{Administrator ma mozliwosc przywracania ustawien fabrycznych modulu.}{section.6.5}% 39
+\BOOKMARK [2][-]{subsection.6.27}{Administrator ma mozliwosc tworzenia kopii zapasowej danych.}{section.6.5}% 40
+\BOOKMARK [2][-]{subsection.6.28}{Administrator ma mozliwosc tworzenia kopii zapasowej danych.}{section.6.5}% 41
+\BOOKMARK [1][-]{section.6.6}{Generowanie raport\363w:}{chapter.6}% 42
+\BOOKMARK [2][-]{subsection.6.29}{Uzytkownik techniczny/Administrator ma mozliwosc, po uprzednim okresleniu kryteri\363w, wygenerowania raportu w postaci pliku pdf.}{section.6.6}% 43
+\BOOKMARK [0][-]{chapter.7}{Wymagania niefunkcjonalne}{}% 44
+\BOOKMARK [1][-]{section.7.1}{Ergonomia:}{chapter.7}% 45
+\BOOKMARK [2][-]{subsection.7.1}{Interfejs}{section.7.1}% 46
+\BOOKMARK [2][-]{subsection.7.2}{Przenosnosc systemu}{section.7.1}% 47
+\BOOKMARK [2][-]{subsection.7.3}{Jezyk systemu}{section.7.1}% 48
+\BOOKMARK [1][-]{section.7.2}{Dostepnosc systemu:}{chapter.7}% 49
+\BOOKMARK [2][-]{subsection.7.4}{Okres dostepnosci}{section.7.2}% 50
+\BOOKMARK [2][-]{subsection.7.5}{Czas naprawy}{section.7.2}% 51
+\BOOKMARK [2][-]{subsection.7.6}{Kompatybilnosc}{section.7.2}% 52
+\BOOKMARK [2][-]{subsection.7.7}{Awaria systemu}{section.7.2}% 53
+\BOOKMARK [2][-]{subsection.7.8}{Dostep do systemu}{section.7.2}% 54
+\BOOKMARK [1][-]{section.7.3}{Wydajnosc:}{chapter.7}% 55
+\BOOKMARK [2][-]{subsection.7.9}{Czas zapytania}{section.7.3}% 56
+\BOOKMARK [2][-]{subsection.7.10}{Eksport danych}{section.7.3}% 57
+\BOOKMARK [1][-]{section.7.4}{Bezpieczenstwo i utrzymanie:}{chapter.7}% 58
+\BOOKMARK [2][-]{subsection.7.11}{Serwisowanie systemu}{section.7.4}% 59
+\BOOKMARK [2][-]{subsection.7.12}{Aktualizacje}{section.7.4}% 60
+\BOOKMARK [2][-]{subsection.7.13}{Komunikacja z serwerem}{section.7.4}% 61
+\BOOKMARK [2][-]{subsection.7.14}{Integralnosc danych}{section.7.4}% 62
+\BOOKMARK [2][-]{subsection.7.15}{Backup bazy danych}{section.7.4}% 63
+\BOOKMARK [2][-]{subsection.7.16}{Zabezpieczenie polaczenia}{section.7.4}% 64
+\BOOKMARK [2][-]{subsection.7.17}{Logi systemu}{section.7.4}% 65
+\BOOKMARK [2][-]{subsection.7.18}{Nieautoryzowany dostep}{section.7.4}% 66
+\BOOKMARK [2][-]{subsection.7.19}{Bledne logowanie}{section.7.4}% 67
+\BOOKMARK [1][-]{section.7.5}{Projektowanie}{chapter.7}% 68
+\BOOKMARK [2][-]{subsection.7.20}{Technologia wykonania}{section.7.5}% 69
+\BOOKMARK [2][-]{subsection.7.21}{Rozszerzanie funkcjonalnosci}{section.7.5}% 70
+\BOOKMARK [1][-]{section.7.6}{Skalowalnosc}{chapter.7}% 71
+\BOOKMARK [2][-]{subsection.7.22}{Rozrastanie sie systemu}{section.7.6}% 72
+\BOOKMARK [0][-]{chapter.8}{Przypadki uzycia}{}% 73
+\BOOKMARK [1][-]{section.8.1}{Logowanie uzytkownika}{chapter.8}% 74
+\BOOKMARK [1][-]{section.8.2}{Rejestracja uzytkownika}{chapter.8}% 75
+\BOOKMARK [1][-]{section.8.3}{Zgloszenie o przyznanie nowego zasobu}{chapter.8}% 76
+\BOOKMARK [1][-]{section.8.4}{Zatwierdzenie zgloszenia o zas\363b dla uzytkownika}{chapter.8}% 77
+\BOOKMARK [1][-]{section.8.5}{Wydanie zasobu}{chapter.8}% 78
+\BOOKMARK [1][-]{section.8.6}{Zgloszenie zasobu do serwisu}{chapter.8}% 79
+\BOOKMARK [1][-]{section.8.7}{Przyjecie zgloszenia serwisowego}{chapter.8}% 80
+\BOOKMARK [1][-]{section.8.8}{Wylogowanie}{chapter.8}% 81
+\BOOKMARK [1][-]{section.8.9}{Zgloszenie o kupno zasobu}{chapter.8}% 82
+\BOOKMARK [1][-]{section.8.10}{Kupno zasobu}{chapter.8}% 83
+\BOOKMARK [1][-]{section.8.11}{Podglad historii uzytkownik\363w}{chapter.8}% 84
+\BOOKMARK [1][-]{section.8.12}{Zarzadzanie modulem}{chapter.8}% 85
+\BOOKMARK [1][-]{section.8.13}{Zarzadzanie kontem uzytkownika}{chapter.8}% 86
+\BOOKMARK [1][-]{section.8.14}{Weryfikacja zasob\363w}{chapter.8}% 87
+\BOOKMARK [1][-]{section.8.15}{Raportowanie}{chapter.8}% 88
+\BOOKMARK [1][-]{section.8.16}{Definiowanie typ\363w zasob\363w}{chapter.8}% 89
+\BOOKMARK [0][-]{chapter.9}{Diagramy klas i diagramy sekwencji}{}% 90
+\BOOKMARK [1][-]{section.9.1}{Logowanie uzytkownika}{chapter.9}% 91
+\BOOKMARK [1][-]{section.9.2}{Rejestracja uzytkownika}{chapter.9}% 92
+\BOOKMARK [1][-]{section.9.3}{Zgloszenie o przyznanie nowego zasobu}{chapter.9}% 93
+\BOOKMARK [1][-]{section.9.4}{Zatwierdzenie prosby o przyznanie nowego zasobu}{chapter.9}% 94
+\BOOKMARK [1][-]{section.9.5}{Wydanie zasobu}{chapter.9}% 95
+\BOOKMARK [1][-]{section.9.6}{Zgloszenie zasobu do serwisu}{chapter.9}% 96
+\BOOKMARK [1][-]{section.9.7}{Przyjecie zgloszenia serwisowego}{chapter.9}% 97
+\BOOKMARK [1][-]{section.9.8}{Wylogowanie}{chapter.9}% 98
+\BOOKMARK [1][-]{section.9.9}{Zgloszenie o kupno zasobu}{chapter.9}% 99
+\BOOKMARK [1][-]{section.9.10}{Kupno zasobu}{chapter.9}% 100
+\BOOKMARK [1][-]{section.9.11}{Podglad historii uzytkownik\363w}{chapter.9}% 101
+\BOOKMARK [1][-]{section.9.12}{Zarzadzanie modulem}{chapter.9}% 102
+\BOOKMARK [1][-]{section.9.13}{Zarzadzanie kontem uzytkownika}{chapter.9}% 103
+\BOOKMARK [1][-]{section.9.14}{Weryfikacja zasob\363w}{chapter.9}% 104
+\BOOKMARK [1][-]{section.9.15}{Raportowanie}{chapter.9}% 105
+\BOOKMARK [1][-]{section.9.16}{Definiowanie typ\363w zasob\363w}{chapter.9}% 106
+\BOOKMARK [0][-]{chapter.10}{Model bazy danych}{}% 107
+\BOOKMARK [0][-]{chapter.11}{Interfejs uzytkownika}{}% 108

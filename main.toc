@@ -1,0 +1,227 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {polish}
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Opis projektu}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Procesy biznesowe}{5}{section.1.2}
+\contentsline {chapter}{\numberline {2}S\IeC {\l }ownik poj\IeC {\k e}\IeC {\'c}}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Specyfikacja sprz\IeC {\k e}tu i oprogramowania podstawowego}{6}{chapter.3}
+\contentsline {paragraph}{}{6}{section*.2}
+\contentsline {paragraph}{\IeC {\'S}rodowisko sprz\IeC {\k e}towe}{6}{section*.3}
+\contentsline {paragraph}{}{6}{section*.4}
+\contentsline {paragraph}{System operacyjny}{6}{section*.5}
+\contentsline {paragraph}{}{6}{section*.6}
+\contentsline {chapter}{\numberline {4}Specyfikacja technologii}{7}{chapter.4}
+\contentsline {paragraph}{}{7}{section*.7}
+\contentsline {paragraph}{Technologie u\IeC {\.z}yte po stronie serwera}{7}{section*.8}
+\contentsline {paragraph}{}{7}{section*.9}
+\contentsline {paragraph}{}{7}{section*.10}
+\contentsline {paragraph}{Technologie wykorzystane do interfejsu u\IeC {\.z}ytkownika}{7}{section*.11}
+\contentsline {paragraph}{}{7}{section*.12}
+\contentsline {paragraph}{Technologie u\IeC {\.z}yte do przechowywania danych}{7}{section*.13}
+\contentsline {paragraph}{}{7}{section*.14}
+\contentsline {chapter}{\numberline {5}Aktorzy}{8}{chapter.5}
+\contentsline {chapter}{\numberline {6}Wymagania funkcjonalne}{9}{chapter.6}
+\contentsline {section}{\numberline {6.1}Weryfikacja u\IeC {\.z}ytkownik\IeC {\'o}w}{9}{section.6.1}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F1}}}U\IeC {\.z}ytkownik mo\IeC {\.z}e zalogowa\IeC {\'c} si\IeC {\k e} na swoje konto.}{9}{subsection.6.1}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F2}}}U\IeC {\.z}ytkownik mo\IeC {\.z}e wylogowa\IeC {\'c} si\IeC {\k e} w ka\IeC {\.z}dej chwili pracy w module.}{9}{subsection.6.2}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F3}}}U\IeC {\.z}ytkownicy maj\IeC {\k a} zdefiniowane prawa dost\IeC {\k e}pu.}{9}{subsection.6.3}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F4}}}W zale\IeC {\.z}no\IeC {\'s}ci od nadanych praw u\IeC {\.z}ytkownicy maj\IeC {\k a} r\IeC {\'o}\IeC {\.z}ny zakres funkcjonalno\IeC {\'s}ci modu\IeC {\l }u.}{9}{subsection.6.4}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F5}}}W przypadku trzykrotnego niepowodzenia przy logowaniu konto u\IeC {\.z}ytkownika zostaje zablokowane na czas jednej godziny.}{9}{subsection.6.5}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F6}}}W sytuacji, gdy sesja u\IeC {\.z}ytkownika jest nieaktywna d\IeC {\l }u\IeC {\.z}ej ni\IeC {\.z} pi\IeC {\k e}tna\IeC {\'s}cie minut, u\IeC {\.z}ytkownik zostaje automatycznie wylogowany.}{9}{subsection.6.6}
+\contentsline {section}{\numberline {6.2}Konta u\IeC {\.z}ytkownik\IeC {\'o}w:}{10}{section.6.2}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F7}}}U\IeC {\.z}ytkownik z prawami dost\IeC {\k e}pu administratora ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} stworzenia i zatwierdzenia konta u\IeC {\.z}ytkownika ubiegaj\IeC {\k a}cego si\IeC {\k e} o nie.}{10}{subsection.6.7}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F8}}}U\IeC {\.z}ytkownik z prawami dost\IeC {\k e}pu administratora ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} usuwania kont u\IeC {\.z}ytkownik\IeC {\'o}w modu\IeC {\l }u.}{10}{subsection.6.8}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F9}}}U\IeC {\.z}ytkownik z prawami dost\IeC {\k e}pu administratora ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} edycji praw dost\IeC {\k e}pu istniej\IeC {\k a}cych u\IeC {\.z}ytkownik\IeC {\'o}w w module.}{10}{subsection.6.9}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F10}}}U\IeC {\.z}ytkownik z prawami dost\IeC {\k e}pu administratora ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} podgl\IeC {\k a}du historii zasobu.}{10}{subsection.6.10}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F11}}}U\IeC {\.z}ytkownik z prawami dost\IeC {\k e}pu administratora ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} podgl\IeC {\k a}du historii u\IeC {\.z}ytkownika.}{10}{subsection.6.11}
+\contentsline {section}{\numberline {6.3}Zarz\IeC {\k a}dzanie zasobami:}{10}{section.6.3}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F12}}}U\IeC {\.z}ytkownik techniczny ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} dodawania nowych i usuwania istniej\IeC {\k a}cych zasob\IeC {\'o}w przynale\IeC {\.z}nych do danego typu.}{10}{subsection.6.12}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F13}}}U\IeC {\.z}ytkownik techniczny ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c}, po uprzednim stwierdzeniu przez mened\IeC {\.z}era, przyznawania zasob\IeC {\'o}w u\IeC {\.z}ytkownikom, kt\IeC {\'o}rzy z\IeC {\l }o\IeC {\.z}yli na nie zam\IeC {\'o}wienie.}{10}{subsection.6.13}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F14}}}U\IeC {\.z}ytkownik techniczny ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} modyfikacji danych zasobu.}{11}{subsection.6.14}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F15}}}U\IeC {\.z}ytkownik techniczny ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} wprowadzania historii napraw zasob\IeC {\'o}w dokonywanych w firmie jak i przez serwis zewn\IeC {\k e}trzny.}{11}{subsection.6.15}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F16}}}Wszelkie modyfikacje zasobu zapisywane s\IeC {\k a} w jego historii. }{11}{subsection.6.16}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F17}}}Ka\IeC {\.z}dy u\IeC {\.z}ytkownik ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} podgl\IeC {\k a}du przypisanych do niego w danej chwili zasob\IeC {\'o}w.}{11}{subsection.6.17}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F18}}}U\IeC {\.z}ytkownik techniczny ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} podgl\IeC {\k a}du wszystkich zasob\IeC {\'o}w, za kt\IeC {\'o}re jest odpowiedzialny.}{11}{subsection.6.18}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F19}}}U\IeC {\.z}ytkownik techniczny/Administrator ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} przegl\IeC {\k a}dania wszystkich zasob\IeC {\'o}w wed\IeC {\l }ug zdefiniowanych przez siebie kryteri\IeC {\'o}w (np. posortowane, zgodne z wybranymi filtrami).}{11}{subsection.6.19}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F20}}}Administrator ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} przegl\IeC {\k a}dania wszystkich zasob\IeC {\'o}w wed\IeC {\l }ug zdefiniowanych przez siebie kryteri\IeC {\'o}w (np. posortowane, zgodne z wybranymi filtrami).}{11}{subsection.6.20}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F21}}}U\IeC {\.z}ytkownik ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} zg\IeC {\l }oszenia ch\IeC {\k e}ci skorzystania z zasobu.}{11}{subsection.6.21}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F22}}}U\IeC {\.z}ytkownik ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} zg\IeC {\l }oszenia zasobu do serwisu.}{12}{subsection.6.22}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F23}}}U\IeC {\.z}ytkownik technicznych ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} zmiany statusu zasobu na serwisowany.}{12}{subsection.6.23}
+\contentsline {section}{\numberline {6.4}Zarz\IeC {\k a}dzanie typami zasob\IeC {\'o}w:}{12}{section.6.4}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F24}}}Administrator ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} dodawania i usuwania typ\IeC {\'o}w zasob\IeC {\'o}w}{12}{subsection.6.24}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F25}}}Administrator ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} edycji zespo\IeC {\l }u parametr\IeC {\'o}w istniej\IeC {\k a}cych typ\IeC {\'o}w zasob\IeC {\'o}w.}{12}{subsection.6.25}
+\contentsline {section}{\numberline {6.5}Zarz\IeC {\k a}dzanie modu\IeC {\l }em:}{12}{section.6.5}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F26}}}Administrator ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} przywracania ustawie\IeC {\'n} fabrycznych modu\IeC {\l }u.}{12}{subsection.6.26}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F27}}}Administrator ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} tworzenia kopii zapasowej danych.}{12}{subsection.6.27}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F28}}}Administrator ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c} tworzenia kopii zapasowej danych.}{12}{subsection.6.28}
+\contentsline {section}{\numberline {6.6}Generowanie raport\IeC {\'o}w:}{12}{section.6.6}
+\contentsline {subsection}{\numberline {\color@box {}{green}{\leavevmode {\color {white}F29}}}U\IeC {\.z}ytkownik techniczny/Administrator ma mo\IeC {\.z}liwo\IeC {\'s}\IeC {\'c}, po uprzednim okre\IeC {\'s}leniu kryteri\IeC {\'o}w, wygenerowania raportu w postaci pliku pdf.}{12}{subsection.6.29}
+\contentsline {chapter}{\numberline {7}Wymagania niefunkcjonalne}{13}{chapter.7}
+\contentsline {section}{\numberline {7.1}Ergonomia:}{13}{section.7.1}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF1}}}Interfejs}{13}{subsection.7.1}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF2}}}Przeno\IeC {\'s}no\IeC {\'s}\IeC {\'c} systemu}{13}{subsection.7.2}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF3}}}J\IeC {\k e}zyk systemu}{13}{subsection.7.3}
+\contentsline {section}{\numberline {7.2}Dost\IeC {\k e}pno\IeC {\'s}\IeC {\'c} systemu:}{13}{section.7.2}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF4}}}Okres dost\IeC {\k e}pno\IeC {\'s}ci}{13}{subsection.7.4}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF5}}}Czas naprawy}{13}{subsection.7.5}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF6}}}Kompatybilno\IeC {\'s}\IeC {\'c}}{13}{subsection.7.6}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF7}}}Awaria systemu}{13}{subsection.7.7}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF8}}}Dost\IeC {\k e}p do systemu}{13}{subsection.7.8}
+\contentsline {section}{\numberline {7.3}Wydajno\IeC {\'s}\IeC {\'c}:}{14}{section.7.3}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF9}}}Czas zapytania}{14}{subsection.7.9}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF10}}}Eksport danych}{14}{subsection.7.10}
+\contentsline {section}{\numberline {7.4}Bezpiecze\IeC {\'n}stwo i utrzymanie:}{14}{section.7.4}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF11}}}Serwisowanie systemu}{14}{subsection.7.11}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF12}}}Aktualizacje}{14}{subsection.7.12}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF13}}}Komunikacja z serwerem}{14}{subsection.7.13}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF14}}}Integralno\IeC {\'s}\IeC {\'c} danych}{14}{subsection.7.14}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF15}}}Backup bazy danych}{14}{subsection.7.15}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF16}}}Zabezpieczenie po\IeC {\l }\IeC {\k a}czenia}{14}{subsection.7.16}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF17}}}Logi systemu}{14}{subsection.7.17}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF18}}}Nieautoryzowany dost\IeC {\k e}p}{14}{subsection.7.18}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF19}}}B\IeC {\l }\IeC {\k e}dne logowanie}{15}{subsection.7.19}
+\contentsline {section}{\numberline {7.5}Projektowanie}{15}{section.7.5}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF20}}}Technologia wykonania}{15}{subsection.7.20}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF21}}}Rozszerzanie funkcjonalno\IeC {\'s}ci}{15}{subsection.7.21}
+\contentsline {section}{\numberline {7.6}Skalowalno\IeC {\'s}\IeC {\'c}}{15}{section.7.6}
+\contentsline {subsection}{\numberline {\color@box {}{blue}{\leavevmode {\color {white}NF22}}}Rozrastanie si\IeC {\k e} systemu}{15}{subsection.7.22}
+\contentsline {chapter}{\numberline {8}Przypadki u\IeC {\.z}ycia}{15}{chapter.8}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU1}}}Logowanie u\IeC {\.z}ytkownika}{15}{section.8.1}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{15}{section*.16}
+\contentsline {paragraph}{Priorytet:}{15}{section*.17}
+\contentsline {paragraph}{Aktorzy:}{15}{section*.18}
+\contentsline {paragraph}{Podstawowy przebieg:}{15}{section*.19}
+\contentsline {paragraph}{Przebiegi alternatywne:}{16}{section*.20}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{16}{section*.22}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{16}{section*.23}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU2}}}Rejestracja u\IeC {\.z}ytkownika}{16}{section.8.2}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{16}{section*.24}
+\contentsline {paragraph}{Priorytet:}{16}{section*.25}
+\contentsline {paragraph}{Aktorzy:}{16}{section*.26}
+\contentsline {paragraph}{Podstawowy przebieg:}{16}{section*.27}
+\contentsline {paragraph}{Przebiegi alternatywne:}{16}{section*.28}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{17}{section*.30}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{17}{section*.31}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU3}}}Zg\IeC {\l }oszenie o przyznanie nowego zasobu}{17}{section.8.3}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{17}{section*.32}
+\contentsline {paragraph}{Priorytet:}{17}{section*.33}
+\contentsline {paragraph}{Aktorzy:}{17}{section*.34}
+\contentsline {paragraph}{Podstawowy przebieg:}{17}{section*.35}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{17}{section*.37}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{18}{section*.38}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU4}}}Zatwierdzenie zg\IeC {\l }oszenia o zas\IeC {\'o}b dla u\IeC {\.z}ytkownika}{18}{section.8.4}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{18}{section*.39}
+\contentsline {paragraph}{Priorytet:}{18}{section*.40}
+\contentsline {paragraph}{Aktorzy:}{18}{section*.41}
+\contentsline {paragraph}{Podstawowy przebieg:}{18}{section*.42}
+\contentsline {paragraph}{Przebieg alternatywny:}{18}{section*.43}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{18}{section*.45}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{18}{section*.46}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU5}}}Wydanie zasobu}{18}{section.8.5}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{18}{section*.47}
+\contentsline {paragraph}{Priorytet:}{18}{section*.48}
+\contentsline {paragraph}{Aktorzy:}{19}{section*.49}
+\contentsline {paragraph}{Podstawowy przebieg:}{19}{section*.50}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{19}{section*.52}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{19}{section*.53}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU6}}}Zg\IeC {\l }oszenie zasobu do serwisu}{19}{section.8.6}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{19}{section*.54}
+\contentsline {paragraph}{Priorytet:}{19}{section*.55}
+\contentsline {paragraph}{Aktorzy:}{19}{section*.56}
+\contentsline {paragraph}{Podstawowy przebieg:}{19}{section*.57}
+\contentsline {paragraph}{Przebiegi alternatywne:}{19}{section*.58}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{20}{section*.60}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{20}{section*.61}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU7}}}Przyj\IeC {\k e}cie zg\IeC {\l }oszenia serwisowego}{20}{section.8.7}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{20}{section*.62}
+\contentsline {paragraph}{Priorytet:}{20}{section*.63}
+\contentsline {paragraph}{Aktorzy:}{20}{section*.64}
+\contentsline {paragraph}{Podstawowy przebieg:}{20}{section*.65}
+\contentsline {paragraph}{Przebieg alternatywny:}{20}{section*.66}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{21}{section*.68}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{21}{section*.69}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU8}}}Wylogowanie}{21}{section.8.8}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{21}{section*.70}
+\contentsline {paragraph}{Priorytet:}{21}{section*.71}
+\contentsline {paragraph}{Aktorzy:}{21}{section*.72}
+\contentsline {paragraph}{Podstawowy przebieg:}{21}{section*.73}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{21}{section*.75}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{22}{section*.76}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU9}}}Zg\IeC {\l }oszenie o kupno zasobu}{22}{section.8.9}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{22}{section*.77}
+\contentsline {paragraph}{Priorytet:}{22}{section*.78}
+\contentsline {paragraph}{Aktorzy:}{22}{section*.79}
+\contentsline {paragraph}{Podstawowy przebieg:}{22}{section*.80}
+\contentsline {paragraph}{Przebiegi alternatywne:}{22}{section*.81}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{22}{section*.83}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{22}{section*.84}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU10}}}Kupno zasobu}{22}{section.8.10}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{22}{section*.85}
+\contentsline {paragraph}{Priorytet:}{22}{section*.86}
+\contentsline {paragraph}{Aktorzy:}{22}{section*.87}
+\contentsline {paragraph}{Podstawowy przebieg:}{22}{section*.88}
+\contentsline {paragraph}{Przebiegi alternatywne:}{23}{section*.89}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{23}{section*.91}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{23}{section*.92}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU11}}}Podgl\IeC {\k a}d historii u\IeC {\.z}ytkownik\IeC {\'o}w}{23}{section.8.11}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{23}{section*.93}
+\contentsline {paragraph}{Priorytet:}{23}{section*.94}
+\contentsline {paragraph}{Aktorzy:}{23}{section*.95}
+\contentsline {paragraph}{Podstawowy przebieg:}{23}{section*.96}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{24}{section*.98}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{24}{section*.99}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU12}}}Zarz\IeC {\k a}dzanie modu\IeC {\l }em}{24}{section.8.12}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{24}{section*.100}
+\contentsline {paragraph}{Priorytet:}{24}{section*.101}
+\contentsline {paragraph}{Aktorzy:}{24}{section*.102}
+\contentsline {paragraph}{Podstawowy przebieg:}{24}{section*.103}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{25}{section*.105}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{25}{section*.106}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU13}}}Zarz\IeC {\k a}dzanie kontem u\IeC {\.z}ytkownika}{25}{section.8.13}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{25}{section*.107}
+\contentsline {paragraph}{Priorytet:}{25}{section*.108}
+\contentsline {paragraph}{Aktorzy:}{25}{section*.109}
+\contentsline {paragraph}{Podstawowy przebieg:}{26}{section*.110}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{26}{section*.112}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{26}{section*.113}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU14}}}Weryfikacja zasob\IeC {\'o}w}{26}{section.8.14}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{26}{section*.114}
+\contentsline {paragraph}{Priorytet:}{26}{section*.115}
+\contentsline {paragraph}{Aktorzy:}{26}{section*.116}
+\contentsline {paragraph}{Podstawowy przebieg:}{27}{section*.117}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{27}{section*.119}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{27}{section*.120}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU15}}}Raportowanie}{27}{section.8.15}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{27}{section*.121}
+\contentsline {paragraph}{Priorytet:}{27}{section*.122}
+\contentsline {paragraph}{Aktorzy:}{27}{section*.123}
+\contentsline {paragraph}{Podstawowy przebieg:}{27}{section*.124}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{28}{section*.126}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{28}{section*.127}
+\contentsline {section}{\numberline {\color@box {}{red}{\leavevmode {\color {white}PU16}}}Definiowanie typ\IeC {\'o}w zasob\IeC {\'o}w}{28}{section.8.16}
+\contentsline {paragraph}{Opis przypadku u\IeC {\.z}ycia:}{28}{section*.128}
+\contentsline {paragraph}{Priorytet:}{28}{section*.129}
+\contentsline {paragraph}{Aktorzy:}{28}{section*.130}
+\contentsline {paragraph}{Podstawowy przebieg:}{28}{section*.131}
+\contentsline {paragraph}{Warunki wst\IeC {\k e}pne:}{28}{section*.133}
+\contentsline {paragraph}{Warunki ko\IeC {\'n}cowe:}{29}{section*.134}
+\contentsline {chapter}{\numberline {9}Diagramy klas i diagramy sekwencji}{29}{chapter.9}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD1}}}Logowanie u\IeC {\.z}ytkownika}{29}{section.9.1}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD2}}}Rejestracja u\IeC {\.z}ytkownika}{30}{section.9.2}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD3}}}Zg\IeC {\l }oszenie o przyznanie nowego zasobu}{30}{section.9.3}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD4}}}Zatwierdzenie pro\IeC {\'s}by o przyznanie nowego zasobu}{31}{section.9.4}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD5}}}Wydanie zasobu}{32}{section.9.5}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD6}}}Zg\IeC {\l }oszenie zasobu do serwisu}{32}{section.9.6}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD7}}}Przyj\IeC {\k e}cie zg\IeC {\l }oszenia serwisowego}{33}{section.9.7}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD8}}}Wylogowanie}{33}{section.9.8}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD9}}}Zg\IeC {\l }oszenie o kupno zasobu}{34}{section.9.9}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD10}}}Kupno zasobu}{35}{section.9.10}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD11}}}Podgl\IeC {\k a}d historii u\IeC {\.z}ytkownik\IeC {\'o}w}{35}{section.9.11}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD12}}}Zarz\IeC {\k a}dzanie modu\IeC {\l }em}{36}{section.9.12}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD13}}}Zarz\IeC {\k a}dzanie kontem u\IeC {\.z}ytkownika}{37}{section.9.13}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD14}}}Weryfikacja zasob\IeC {\'o}w}{38}{section.9.14}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD15}}}Raportowanie}{39}{section.9.15}
+\contentsline {section}{\numberline {\color@box {}{gray}{\leavevmode {\color {white}CSD16}}}Definiowanie typ\IeC {\'o}w zasob\IeC {\'o}w}{39}{section.9.16}
+\contentsline {chapter}{\numberline {10}Model bazy danych}{40}{chapter.10}
+\contentsline {chapter}{\numberline {11}Interfejs u\IeC {\.z}ytkownika}{41}{chapter.11}
