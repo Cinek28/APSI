@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.14)  28 JAN 2018 20:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.14)  31 JAN 2018 00:05
 entering extended mode
 **./main.tex
 (main.tex
@@ -1667,7 +1667,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 111.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \c__siunitx_mathtt_int=\count469
-<logo.pdf, id=435, pagebox=cropbox, 646.87552pt x 124.30151pt>
+<logo.pdf, id=439, pagebox=cropbox, 646.87552pt x 124.30151pt>
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
 Package pdftex.def Info: logo.pdf  used on input line 120. on input line 120.
@@ -1861,7 +1861,7 @@ Rozdzia\l  3.
 Rozdzia\l  4.
 [7]
 Rozdzia\l  5.
-<Dziedziczenie.png, id=623, 420.97275pt x 278.2395pt>
+<Dziedziczenie.png, id=628, 420.97275pt x 278.2395pt>
 File: Dziedziczenie.png Graphic file (type png)
 <use Dziedziczenie.png>
 Package pdftex.def Info: Dziedziczenie.png  used on input line 244. on input li
@@ -1886,14 +1886,14 @@ Rozdzia\l  7.
 [12] [13] [14]
 Rozdzia\l  8.
 [15]
-<uzytkownik_logowanie.png, id=663, 448.074pt x 203.5605pt>
+<uzytkownik_logowanie.png, id=668, 448.074pt x 203.5605pt>
 File: uzytkownik_logowanie.png Graphic file (type png)
 <use uzytkownik_logowanie.png>
 Package pdftex.def Info: uzytkownik_logowanie.png  used on input line 644. on i
 nput line 644.
 Package pdftex.def Info: Requested size: 448.07289pt x 203.56pt on input line 6
 44.
-<uzytkownik_rejestracja.png, id=664, 383.63326pt x 212.59425pt>
+<uzytkownik_rejestracja.png, id=669, 383.63326pt x 212.59425pt>
 File: uzytkownik_rejestracja.png Graphic file (type png)
 <use uzytkownik_rejestracja.png>
 Package pdftex.def Info: uzytkownik_rejestracja.png  used on input line 669. on
@@ -1901,7 +1901,7 @@ Package pdftex.def Info: uzytkownik_rejestracja.png  used on input line 669. on
 Package pdftex.def Info: Requested size: 383.63231pt x 212.59372pt on input lin
 e 669.
  [16 <./uzytkownik_logowanie.png>]
-<uzytkownik_zgloszenie_o_zasob.png, id=678, 296.90926pt x 177.66376pt>
+<uzytkownik_zgloszenie_o_zasob.png, id=683, 296.90926pt x 177.66376pt>
 File: uzytkownik_zgloszenie_o_zasob.png Graphic file (type png)
 <use uzytkownik_zgloszenie_o_zasob.png>
 Package pdftex.def Info: uzytkownik_zgloszenie_o_zasob.png  used on input line 
@@ -1909,7 +1909,7 @@ Package pdftex.def Info: uzytkownik_zgloszenie_o_zasob.png  used on input line
 Package pdftex.def Info: Requested size: 296.90852pt x 177.66331pt on input lin
 e 686.
  [17 <./uzytkownik_rejestracja.png> <./uzytkownik_zgloszenie_o_zasob.png>]
-<menedzer_zasoby.png, id=692, 315.579pt x 238.491pt>
+<menedzer_zasoby.png, id=697, 315.579pt x 238.491pt>
 File: menedzer_zasoby.png Graphic file (type png)
 <use menedzer_zasoby.png>
 Package pdftex.def Info: menedzer_zasoby.png  used on input line 706. on input 
@@ -1917,14 +1917,14 @@ line 706.
 Package pdftex.def Info: Requested size: 315.57822pt x 238.4904pt on input line
  706.
  [18 <./menedzer_zasoby.png>]
-<wydanie_zasobu.png, id=709, 511.9125pt x 185.493pt>
+<wydanie_zasobu.png, id=714, 511.9125pt x 185.493pt>
 File: wydanie_zasobu.png Graphic file (type png)
 <use wydanie_zasobu.png>
 Package pdftex.def Info: wydanie_zasobu.png  used on input line 727. on input l
 ine 727.
 Package pdftex.def Info: Requested size: 409.53056pt x 148.39459pt on input lin
 e 727.
-<uzytkownik_zgloszenie_do_serwisu.png, id=710, 486.01575pt x 195.73125pt>
+<uzytkownik_zgloszenie_do_serwisu.png, id=715, 486.01575pt x 195.73125pt>
 File: uzytkownik_zgloszenie_do_serwisu.png Graphic file (type png)
 <use uzytkownik_zgloszenie_do_serwisu.png>
 Package pdftex.def Info: uzytkownik_zgloszenie_do_serwisu.png  used on input li
@@ -1932,7 +1932,7 @@ ne 747. on input line 747.
 Package pdftex.def Info: Requested size: 388.81313pt x 156.58519pt on input lin
 e 747.
  [19 <./wydanie_zasobu.png>]
-<uzytkownik_tech_serwis.png, id=727, 410.13225pt x 196.3335pt>
+<uzytkownik_tech_serwis.png, id=732, 410.13225pt x 196.3335pt>
 File: uzytkownik_tech_serwis.png Graphic file (type png)
 <use uzytkownik_tech_serwis.png>
 Package pdftex.def Info: uzytkownik_tech_serwis.png  used on input line 770. on
@@ -1940,7 +1940,7 @@ Package pdftex.def Info: uzytkownik_tech_serwis.png  used on input line 770. on
 Package pdftex.def Info: Requested size: 410.13124pt x 196.33301pt on input lin
 e 770.
  [20 <./uzytkownik_zgloszenie_do_serwisu.png>]
-<uzytkownik_wylog.png, id=740, 487.8225pt x 201.00093pt>
+<uzytkownik_wylog.png, id=745, 487.8225pt x 201.00093pt>
 File: uzytkownik_wylog.png Graphic file (type png)
 <use uzytkownik_wylog.png>
 Package pdftex.def Info: uzytkownik_wylog.png  used on input line 787. on input
@@ -1953,7 +1953,7 @@ Overfull \hbox (32.5772pt too wide) in paragraph at lines 787--788
  []
 
 [21 <./uzytkownik_tech_serwis.png> <./uzytkownik_wylog.png>]
-<nowy_zasob_menedzer_techniczny.png, id=754, 495.65175pt x 228.25275pt>
+<nowy_zasob_menedzer_techniczny.png, id=759, 495.65175pt x 228.25275pt>
 File: nowy_zasob_menedzer_techniczny.png Graphic file (type png)
 <use nowy_zasob_menedzer_techniczny.png>
 Package pdftex.def Info: nowy_zasob_menedzer_techniczny.png  used on input line
@@ -1961,14 +1961,14 @@ Package pdftex.def Info: nowy_zasob_menedzer_techniczny.png  used on input line
 Package pdftex.def Info: Requested size: 396.52193pt x 182.60243pt on input lin
 e 807.
  [22 <./nowy_zasob_menedzer_techniczny.png>]
-<techniczny_kupno.png, id=772, 526.3665pt x 228.25275pt>
+<techniczny_kupno.png, id=777, 526.3665pt x 228.25275pt>
 File: techniczny_kupno.png Graphic file (type png)
 <use techniczny_kupno.png>
 Package pdftex.def Info: techniczny_kupno.png  used on input line 829. on input
  line 829.
 Package pdftex.def Info: Requested size: 421.09378pt x 182.60243pt on input lin
 e 829.
-<admin_statystyki.png, id=773, 278.84175pt x 177.66376pt>
+<admin_statystyki.png, id=778, 278.84175pt x 177.66376pt>
 File: admin_statystyki.png Graphic file (type png)
 <use admin_statystyki.png>
 Package pdftex.def Info: admin_statystyki.png  used on input line 848. on input
@@ -1976,7 +1976,7 @@ Package pdftex.def Info: admin_statystyki.png  used on input line 848. on input
 Package pdftex.def Info: Requested size: 278.84105pt x 177.66331pt on input lin
 e 848.
  [23 <./techniczny_kupno.png>]
-<Zarzadzanie_modulem.png, id=787, 486.618pt x 455.90324pt>
+<Zarzadzanie_modulem.png, id=792, 486.618pt x 455.90324pt>
 File: Zarzadzanie_modulem.png Graphic file (type png)
 <use Zarzadzanie_modulem.png>
 Package pdftex.def Info: Zarzadzanie_modulem.png  used on input line 871. on in
@@ -1989,7 +1989,7 @@ Overfull \hbox (31.3727pt too wide) in paragraph at lines 871--872
  []
 
 [24 <./admin_statystyki.png>] [25 <./Zarzadzanie_modulem.png>]
-<Zarzadzanie_kontem.png, id=815, 474.27188pt x 300.3722pt>
+<Zarzadzanie_kontem.png, id=820, 474.27188pt x 300.3722pt>
 File: Zarzadzanie_kontem.png Graphic file (type png)
 <use Zarzadzanie_kontem.png>
 Package pdftex.def Info: Zarzadzanie_kontem.png  used on input line 893. on inp
@@ -2001,7 +2001,7 @@ Overfull \hbox (19.02661pt too wide) in paragraph at lines 893--894
  [][] 
  []
 
-<weryfikacja_zasobow.png, id=816, 450.483pt x 177.66376pt>
+<weryfikacja_zasobow.png, id=821, 450.483pt x 177.66376pt>
 File: weryfikacja_zasobow.png Graphic file (type png)
 <use weryfikacja_zasobow.png>
 Package pdftex.def Info: weryfikacja_zasobow.png  used on input line 914. on in
@@ -2009,7 +2009,7 @@ put line 914.
 Package pdftex.def Info: Requested size: 450.48189pt x 177.66331pt on input lin
 e 914.
 [26 <./Zarzadzanie_kontem.png>]
-<techniczny_i_admin_raporty.png, id=832, 549.252pt x 210.18526pt>
+<techniczny_i_admin_raporty.png, id=837, 549.252pt x 210.18526pt>
 File: techniczny_i_admin_raporty.png Graphic file (type png)
 <use techniczny_i_admin_raporty.png>
 Package pdftex.def Info: techniczny_i_admin_raporty.png  used on input line 935
@@ -2017,7 +2017,7 @@ Package pdftex.def Info: techniczny_i_admin_raporty.png  used on input line 935
 Package pdftex.def Info: Requested size: 439.40219pt x 168.14842pt on input lin
 e 935.
  [27 <./weryfikacja_zasobow.png>]
-<admin_dodawanie_typow.png, id=849, 251.13824pt x 192.72pt>
+<admin_dodawanie_typow.png, id=854, 251.13824pt x 192.72pt>
 File: admin_dodawanie_typow.png Graphic file (type png)
 <use admin_dodawanie_typow.png>
 Package pdftex.def Info: admin_dodawanie_typow.png  used on input line 956. on 
@@ -2026,14 +2026,14 @@ Package pdftex.def Info: Requested size: 200.91087pt x 154.1762pt on input line
  956.
 
 Rozdzia\l  9.
-<logowanie_class.png, id=850, 691.383pt x 461.92575pt>
+<logowanie_class.png, id=855, 691.383pt x 461.92575pt>
 File: logowanie_class.png Graphic file (type png)
 <use logowanie_class.png>
 Package pdftex.def Info: logowanie_class.png  used on input line 970. on input 
 line 970.
 Package pdftex.def Info: Requested size: 345.69066pt x 230.96231pt on input lin
 e 970.
-<logowanie_sequence.png, id=851, 726.91576pt x 327.02174pt>
+<logowanie_sequence.png, id=856, 726.91576pt x 327.02174pt>
 File: logowanie_sequence.png Graphic file (type png)
 <use logowanie_sequence.png>
 Package pdftex.def Info: logowanie_sequence.png  used on input line 974. on inp
@@ -2041,14 +2041,14 @@ ut line 974.
 Package pdftex.def Info: Requested size: 363.45699pt x 163.51047pt on input lin
 e 974.
 [28 <./techniczny_i_admin_raporty.png> <./admin_dodawanie_typow.png>]
-<rejestracja_class.png, id=867, 779.3115pt x 473.97075pt>
+<rejestracja_class.png, id=872, 779.3115pt x 473.97075pt>
 File: rejestracja_class.png Graphic file (type png)
 <use rejestracja_class.png>
 Package pdftex.def Info: rejestracja_class.png  used on input line 980. on inpu
 t line 980.
 Package pdftex.def Info: Requested size: 389.65479pt x 236.98479pt on input lin
 e 980.
-<rejestracja_sequence.png, id=868, 617.9085pt x 327.02174pt>
+<rejestracja_sequence.png, id=873, 617.9085pt x 327.02174pt>
 File: rejestracja_sequence.png Graphic file (type png)
 <use rejestracja_sequence.png>
 Package pdftex.def Info: rejestracja_sequence.png  used on input line 984. on i
@@ -2056,14 +2056,14 @@ nput line 984.
 Package pdftex.def Info: Requested size: 308.95349pt x 163.51047pt on input lin
 e 984.
  [29 <./logowanie_class.png> <./logowanie_sequence.png>]
-<zgloszenie_zasob_class.png, id=876, 574.5465pt x 322.806pt>
+<zgloszenie_zasob_class.png, id=881, 574.5465pt x 322.806pt>
 File: zgloszenie_zasob_class.png Graphic file (type png)
 <use zgloszenie_zasob_class.png>
 Package pdftex.def Info: zgloszenie_zasob_class.png  used on input line 990. on
  input line 990.
 Package pdftex.def Info: Requested size: 287.27254pt x 161.4026pt on input line
  990.
-<zgloszenie_zasob_sequence.png, id=877, 751.608pt x 327.02174pt>
+<zgloszenie_zasob_sequence.png, id=882, 751.608pt x 327.02174pt>
 File: zgloszenie_zasob_sequence.png Graphic file (type png)
 <use zgloszenie_zasob_sequence.png>
 Package pdftex.def Info: zgloszenie_zasob_sequence.png  used on input line 994.
@@ -2072,28 +2072,28 @@ Package pdftex.def Info: Requested size: 375.80309pt x 163.51047pt on input lin
 e 994.
  [30 <./rejestracja_class.png> <./rejestracja_sequence.png> <./zgloszenie_zasob
 _class.png>]
-<zatwierdzenie_zasob_class.png, id=886, 616.704pt x 383.63326pt>
+<zatwierdzenie_zasob_class.png, id=891, 616.704pt x 383.63326pt>
 File: zatwierdzenie_zasob_class.png Graphic file (type png)
 <use zatwierdzenie_zasob_class.png>
 Package pdftex.def Info: zatwierdzenie_zasob_class.png  used on input line 1000
 . on input line 1000.
 Package pdftex.def Info: Requested size: 308.35124pt x 191.81615pt on input lin
 e 1000.
-<zatwierdzenie_zasob_sequence.png, id=887, 711.8595pt x 330.033pt>
+<zatwierdzenie_zasob_sequence.png, id=892, 711.8595pt x 330.033pt>
 File: zatwierdzenie_zasob_sequence.png Graphic file (type png)
 <use zatwierdzenie_zasob_sequence.png>
 Package pdftex.def Info: zatwierdzenie_zasob_sequence.png  used on input line 1
 004. on input line 1004.
 Package pdftex.def Info: Requested size: 355.92888pt x 165.01608pt on input lin
 e 1004.
-<techniczny_wydanie_zasobu_class.png, id=888, 715.473pt x 384.2355pt>
+<techniczny_wydanie_zasobu_class.png, id=893, 715.473pt x 384.2355pt>
 File: techniczny_wydanie_zasobu_class.png Graphic file (type png)
 <use techniczny_wydanie_zasobu_class.png>
 Package pdftex.def Info: techniczny_wydanie_zasobu_class.png  used on input lin
 e 1010. on input line 1010.
 Package pdftex.def Info: Requested size: 357.73563pt x 192.11728pt on input lin
 e 1010.
-<techniczny_wydanie_zasobu_sequence.png, id=889, 755.2215pt x 330.033pt>
+<techniczny_wydanie_zasobu_sequence.png, id=894, 755.2215pt x 330.033pt>
 File: techniczny_wydanie_zasobu_sequence.png Graphic file (type png)
 <use techniczny_wydanie_zasobu_sequence.png>
 Package pdftex.def Info: techniczny_wydanie_zasobu_sequence.png  used on input 
@@ -2102,14 +2102,14 @@ Package pdftex.def Info: Requested size: 377.60982pt x 165.01608pt on input lin
 e 1014.
  [31 <./zgloszenie_zasob_sequence.png> <./zatwierdzenie_zasob_class.png> <./zat
 wierdzenie_zasob_sequence.png>]
-<zgloszenie_serwis_class.png, id=897, 690.78075pt x 352.31625pt>
+<zgloszenie_serwis_class.png, id=902, 690.78075pt x 352.31625pt>
 File: zgloszenie_serwis_class.png Graphic file (type png)
 <use zgloszenie_serwis_class.png>
 Package pdftex.def Info: zgloszenie_serwis_class.png  used on input line 1020. 
 on input line 1020.
 Package pdftex.def Info: Requested size: 345.38953pt x 176.15768pt on input lin
 e 1020.
-<zgloszenie_serwis_sequence.png, id=898, 699.8145pt x 327.02174pt>
+<zgloszenie_serwis_sequence.png, id=903, 699.8145pt x 327.02174pt>
 File: zgloszenie_serwis_sequence.png Graphic file (type png)
 <use zgloszenie_serwis_sequence.png>
 Package pdftex.def Info: zgloszenie_serwis_sequence.png  used on input line 102
@@ -2118,28 +2118,28 @@ Package pdftex.def Info: Requested size: 349.90639pt x 163.51047pt on input lin
 e 1024.
  [32 <./techniczny_wydanie_zasobu_class.png> <./techniczny_wydanie_zasobu_seque
 nce.png> <./zgloszenie_serwis_class.png>]
-<przyjecie_zgloszenia_serwis_class.png, id=906, 573.342pt x 377.61075pt>
+<przyjecie_zgloszenia_serwis_class.png, id=911, 573.342pt x 377.61075pt>
 File: przyjecie_zgloszenia_serwis_class.png Graphic file (type png)
 <use przyjecie_zgloszenia_serwis_class.png>
 Package pdftex.def Info: przyjecie_zgloszenia_serwis_class.png  used on input l
 ine 1030. on input line 1030.
 Package pdftex.def Info: Requested size: 286.67029pt x 188.8049pt on input line
  1030.
-<przyjecie_zgloszenia_serwis_sequence.png, id=907, 751.608pt x 327.02174pt>
+<przyjecie_zgloszenia_serwis_sequence.png, id=912, 751.608pt x 327.02174pt>
 File: przyjecie_zgloszenia_serwis_sequence.png Graphic file (type png)
 <use przyjecie_zgloszenia_serwis_sequence.png>
 Package pdftex.def Info: przyjecie_zgloszenia_serwis_sequence.png  used on inpu
 t line 1034. on input line 1034.
 Package pdftex.def Info: Requested size: 375.80309pt x 163.51047pt on input lin
 e 1034.
-<wylogowanie_class.png, id=908, 232.4685pt x 101.78024pt>
+<wylogowanie_class.png, id=913, 232.4685pt x 101.78024pt>
 File: wylogowanie_class.png Graphic file (type png)
 <use wylogowanie_class.png>
 Package pdftex.def Info: wylogowanie_class.png  used on input line 1040. on inp
 ut line 1040.
 Package pdftex.def Info: Requested size: 116.23396pt x 50.88998pt on input line
  1040.
-<wylogowanie_sequence.png, id=909, 291.489pt x 327.02174pt>
+<wylogowanie_sequence.png, id=914, 291.489pt x 327.02174pt>
 File: wylogowanie_sequence.png Graphic file (type png)
 <use wylogowanie_sequence.png>
 Package pdftex.def Info: wylogowanie_sequence.png  used on input line 1044. on 
@@ -2148,28 +2148,28 @@ Package pdftex.def Info: Requested size: 145.74414pt x 163.51047pt on input lin
 e 1044.
  [33 <./zgloszenie_serwis_sequence.png> <./przyjecie_zgloszenia_serwis_class.pn
 g> <./przyjecie_zgloszenia_serwis_sequence.png> <./wylogowanie_class.png>]
-<zgloszenie_kupno_zasob_class.png, id=918, 599.841pt x 376.40625pt>
+<zgloszenie_kupno_zasob_class.png, id=923, 599.841pt x 376.40625pt>
 File: zgloszenie_kupno_zasob_class.png Graphic file (type png)
 <use zgloszenie_kupno_zasob_class.png>
 Package pdftex.def Info: zgloszenie_kupno_zasob_class.png  used on input line 1
 050. on input line 1050.
 Package pdftex.def Info: Requested size: 299.91975pt x 188.20265pt on input lin
 e 1050.
-<zgloszenie_kupno_zasob_sequence.png, id=919, 751.608pt x 327.02174pt>
+<zgloszenie_kupno_zasob_sequence.png, id=924, 751.608pt x 327.02174pt>
 File: zgloszenie_kupno_zasob_sequence.png Graphic file (type png)
 <use zgloszenie_kupno_zasob_sequence.png>
 Package pdftex.def Info: zgloszenie_kupno_zasob_sequence.png  used on input lin
 e 1054. on input line 1054.
 Package pdftex.def Info: Requested size: 375.80309pt x 163.51047pt on input lin
 e 1054.
-<kupno_zasob_class.png, id=920, 608.2725pt x 383.63326pt>
+<kupno_zasob_class.png, id=925, 608.2725pt x 383.63326pt>
 File: kupno_zasob_class.png Graphic file (type png)
 <use kupno_zasob_class.png>
 Package pdftex.def Info: kupno_zasob_class.png  used on input line 1060. on inp
 ut line 1060.
 Package pdftex.def Info: Requested size: 304.13551pt x 191.81615pt on input lin
 e 1060.
-<kupno_zasob_sequence.png, id=921, 751.608pt x 327.02174pt>
+<kupno_zasob_sequence.png, id=926, 751.608pt x 327.02174pt>
 File: kupno_zasob_sequence.png Graphic file (type png)
 <use kupno_zasob_sequence.png>
 Package pdftex.def Info: kupno_zasob_sequence.png  used on input line 1064. on 
@@ -2178,14 +2178,14 @@ Package pdftex.def Info: Requested size: 375.80309pt x 163.51047pt on input lin
 e 1064.
  [34 <./wylogowanie_sequence.png> <./zgloszenie_kupno_zasob_class.png> <./zglos
 zenie_kupno_zasob_sequence.png>]
-<podglad_historii_class.png, id=929, 691.383pt x 457.71pt>
+<podglad_historii_class.png, id=934, 691.383pt x 457.71pt>
 File: podglad_historii_class.png Graphic file (type png)
 <use podglad_historii_class.png>
 Package pdftex.def Info: podglad_historii_class.png  used on input line 1070. o
 n input line 1070.
 Package pdftex.def Info: Requested size: 345.69066pt x 228.85445pt on input lin
 e 1070.
-<podglad_historii_sequence.png, id=930, 761.84625pt x 327.02174pt>
+<podglad_historii_sequence.png, id=935, 761.84625pt x 327.02174pt>
 File: podglad_historii_sequence.png Graphic file (type png)
 <use podglad_historii_sequence.png>
 Package pdftex.def Info: podglad_historii_sequence.png  used on input line 1074
@@ -2195,21 +2195,21 @@ Package pdftex.def Info: Requested size: 380.9222pt x 163.51047pt on input line
 
 [35 <./kupno_zasob_class.png> <./kupno_zasob_sequence.png> <./podglad_historii_
 class.png>]
-<zarzadzanie_modulem_class.png, id=938, 309.5565pt x 386.6445pt>
+<zarzadzanie_modulem_class.png, id=943, 309.5565pt x 386.6445pt>
 File: zarzadzanie_modulem_class.png Graphic file (type png)
 <use zarzadzanie_modulem_class.png>
 Package pdftex.def Info: zarzadzanie_modulem_class.png  used on input line 1080
 . on input line 1080.
 Package pdftex.def Info: Requested size: 154.77786pt x 193.32178pt on input lin
 e 1080.
-<backup.png, id=939, 753.41475pt x 327.02174pt>
+<backup.png, id=944, 753.41475pt x 327.02174pt>
 File: backup.png Graphic file (type png)
 <use backup.png>
 Package pdftex.def Info: backup.png  used on input line 1084. on input line 108
 4.
 Package pdftex.def Info: Requested size: 376.70645pt x 163.51047pt on input lin
 e 1084.
-<restoring.png, id=940, 753.41475pt x 327.02174pt>
+<restoring.png, id=945, 753.41475pt x 327.02174pt>
 File: restoring.png Graphic file (type png)
 <use restoring.png>
 Package pdftex.def Info: restoring.png  used on input line 1088. on input line 
@@ -2218,28 +2218,28 @@ Package pdftex.def Info: Requested size: 376.70645pt x 163.51047pt on input lin
 e 1088.
  [36 <./podglad_historii_sequence.png> <./zarzadzanie_modulem_class.png> <./bac
 kup.png>]
-<zarzadzanie_uzytkownikami_class.png, id=949, 779.3115pt x 473.97075pt>
+<zarzadzanie_uzytkownikami_class.png, id=954, 779.3115pt x 473.97075pt>
 File: zarzadzanie_uzytkownikami_class.png Graphic file (type png)
 <use zarzadzanie_uzytkownikami_class.png>
 Package pdftex.def Info: zarzadzanie_uzytkownikami_class.png  used on input lin
 e 1094. on input line 1094.
 Package pdftex.def Info: Requested size: 389.65479pt x 236.98479pt on input lin
 e 1094.
-<zarzadzanie_uzytkownikami_sequence.png, id=950, 617.9085pt x 327.02174pt>
+<zarzadzanie_uzytkownikami_sequence.png, id=955, 617.9085pt x 327.02174pt>
 File: zarzadzanie_uzytkownikami_sequence.png Graphic file (type png)
 <use zarzadzanie_uzytkownikami_sequence.png>
 Package pdftex.def Info: zarzadzanie_uzytkownikami_sequence.png  used on input 
 line 1098. on input line 1098.
 Package pdftex.def Info: Requested size: 308.95349pt x 163.51047pt on input lin
 e 1098.
-<weryfikacja.png, id=951, 567.3195pt x 526.96875pt>
+<weryfikacja.png, id=956, 567.3195pt x 526.96875pt>
 File: weryfikacja.png Graphic file (type png)
 <use weryfikacja.png>
 Package pdftex.def Info: weryfikacja.png  used on input line 1104. on input lin
 e 1104.
 Package pdftex.def Info: Requested size: 283.65906pt x 263.48372pt on input lin
 e 1104.
-<weryfikacja_sequence.png, id=952, 702.82574pt x 327.02174pt>
+<weryfikacja_sequence.png, id=957, 702.82574pt x 327.02174pt>
 File: weryfikacja_sequence.png Graphic file (type png)
 <use weryfikacja_sequence.png>
 Package pdftex.def Info: weryfikacja_sequence.png  used on input line 1108. on 
@@ -2248,14 +2248,14 @@ Package pdftex.def Info: Requested size: 351.412pt x 163.51047pt on input line
 1108.
  [37 <./restoring.png> <./zarzadzanie_uzytkownikami_class.png> <./zarzadzanie_u
 zytkownikami_sequence.png>]
-<raportowanie_class.png, id=960, 638.385pt x 461.92575pt>
+<raportowanie_class.png, id=965, 638.385pt x 461.92575pt>
 File: raportowanie_class.png Graphic file (type png)
 <use raportowanie_class.png>
 Package pdftex.def Info: raportowanie_class.png  used on input line 1114. on in
 put line 1114.
 Package pdftex.def Info: Requested size: 319.19171pt x 230.96231pt on input lin
 e 1114.
-<raportowanie_sequence.png, id=961, 742.57425pt x 327.02174pt>
+<raportowanie_sequence.png, id=966, 742.57425pt x 327.02174pt>
 File: raportowanie_sequence.png Graphic file (type png)
 <use raportowanie_sequence.png>
 Package pdftex.def Info: raportowanie_sequence.png  used on input line 1118. on
@@ -2263,14 +2263,14 @@ Package pdftex.def Info: raportowanie_sequence.png  used on input line 1118. on
 Package pdftex.def Info: Requested size: 371.28621pt x 163.51047pt on input lin
 e 1118.
  [38 <./weryfikacja.png> <./weryfikacja_sequence.png>]
-<nowy_typ_zasob_class.png, id=968, 478.1865pt x 329.43076pt>
+<nowy_typ_zasob_class.png, id=973, 478.1865pt x 329.43076pt>
 File: nowy_typ_zasob_class.png Graphic file (type png)
 <use nowy_typ_zasob_class.png>
 Package pdftex.def Info: nowy_typ_zasob_class.png  used on input line 1123. on 
 input line 1123.
 Package pdftex.def Info: Requested size: 239.09265pt x 164.71497pt on input lin
 e 1123.
-<nowy_typ_zasob_sequence.png, id=969, 753.41475pt x 327.02174pt>
+<nowy_typ_zasob_sequence.png, id=974, 753.41475pt x 327.02174pt>
 File: nowy_typ_zasob_sequence.png Graphic file (type png)
 <use nowy_typ_zasob_sequence.png>
 Package pdftex.def Info: nowy_typ_zasob_sequence.png  used on input line 1127. 
@@ -2280,89 +2280,103 @@ e 1127.
  [39 <./raportowanie_class.png> <./raportowanie_sequence.png> <./nowy_typ_zasob
 _class.png>]
 Rozdzia\l  10.
-<database.jpg, id=977, 963.6pt x 600.2425pt>
-File: database.jpg Graphic file (type jpg)
-<use database.jpg>
-Package pdftex.def Info: database.jpg  used on input line 1134. on input line 1
-134.
-Package pdftex.def Info: Requested size: 481.79883pt x 300.12051pt on input lin
+<components_diagram.png, id=982, 962.59625pt x 482.80376pt>
+File: components_diagram.png Graphic file (type png)
+<use components_diagram.png>
+Package pdftex.def Info: components_diagram.png  used on input line 1134. on in
+put line 1134.
+Package pdftex.def Info: Requested size: 481.29695pt x 241.40129pt on input lin
 e 1134.
 
-Overfull \hbox (26.55472pt too wide) in paragraph at lines 1134--1135
+Overfull \hbox (26.05284pt too wide) in paragraph at lines 1134--1135
  [][] 
  []
 
 Rozdzia\l  11.
-<login_panel.png, id=978, 869.2475pt x 617.30624pt>
+<database.png, id=984, 963.6pt x 600.2425pt>
+File: database.png Graphic file (type png)
+<use database.png>
+Package pdftex.def Info: database.png  used on input line 1141. on input line 1
+141.
+Package pdftex.def Info: Requested size: 481.79883pt x 300.12051pt on input lin
+e 1141.
+
+Overfull \hbox (26.55472pt too wide) in paragraph at lines 1141--1142
+ [][] 
+ []
+
+[40 <./nowy_typ_zasob_sequence.png> <./components_diagram.png>] [41 <./database
+.png (PNG copy)>]
+Rozdzia\l  12.
+<login_panel.png, id=997, 869.2475pt x 617.30624pt>
 File: login_panel.png Graphic file (type png)
 <use login_panel.png>
-Package pdftex.def Info: login_panel.png  used on input line 1142. on input lin
-e 1142.
+Package pdftex.def Info: login_panel.png  used on input line 1151. on input lin
+e 1151.
 Package pdftex.def Info: Requested size: 434.62268pt x 308.65236pt on input lin
-e 1142.
-[40 <./nowy_typ_zasob_sequence.png> <./database.jpg>]
-<logout_panel.png, id=986, 877.2775pt x 619.31375pt>
+e 1151.
+<logout_panel.png, id=998, 877.2775pt x 619.31375pt>
 File: logout_panel.png Graphic file (type png)
 <use logout_panel.png>
-Package pdftex.def Info: logout_panel.png  used on input line 1148. on input li
-ne 1148.
+Package pdftex.def Info: logout_panel.png  used on input line 1157. on input li
+ne 1157.
 Package pdftex.def Info: Requested size: 438.63768pt x 309.65611pt on input lin
-e 1148.
- [41 <./login_panel.png>]
-<register_user_panel.png, id=993, 261.97874pt x 194.7275pt>
+e 1157.
+[42 <./login_panel.png>]
+<register_user_panel.png, id=1006, 261.97874pt x 194.7275pt>
 File: register_user_panel.png Graphic file (type png)
 <use register_user_panel.png>
-Package pdftex.def Info: register_user_panel.png  used on input line 1154. on i
-nput line 1154.
+Package pdftex.def Info: register_user_panel.png  used on input line 1163. on i
+nput line 1163.
 Package pdftex.def Info: Requested size: 209.58327pt x 155.7822pt on input line
- 1154.
-<admin_panel.png, id=994, 839.135pt x 667.49374pt>
+ 1163.
+<admin_panel.png, id=1007, 839.135pt x 667.49374pt>
 File: admin_panel.png Graphic file (type png)
 <use admin_panel.png>
-Package pdftex.def Info: admin_panel.png  used on input line 1160. on input lin
-e 1160.
+Package pdftex.def Info: admin_panel.png  used on input line 1169. on input lin
+e 1169.
 Package pdftex.def Info: Requested size: 377.60725pt x 300.36942pt on input lin
-e 1160.
-
-[42 <./logout_panel.png> <./register_user_panel.png>]
-<admin_panel_user_management.png, id=1004, 840.13875pt x 665.48625pt>
+e 1169.
+ [43 <./logout_panel.png> <./register_user_panel.png>]
+<admin_panel_user_management.png, id=1016, 840.13875pt x 665.48625pt>
 File: admin_panel_user_management.png Graphic file (type png)
 <use admin_panel_user_management.png>
 Package pdftex.def Info: admin_panel_user_management.png  used on input line 11
-66. on input line 1166.
+75. on input line 1175.
 Package pdftex.def Info: Requested size: 378.05894pt x 299.46603pt on input lin
-e 1166.
-<admin_panel_reports.png, id=1005, 838.13126pt x 665.48625pt>
+e 1175.
+<admin_panel_reports.png, id=1017, 838.13126pt x 665.48625pt>
 File: admin_panel_reports.png Graphic file (type png)
 <use admin_panel_reports.png>
-Package pdftex.def Info: admin_panel_reports.png  used on input line 1172. on i
-nput line 1172.
+Package pdftex.def Info: admin_panel_reports.png  used on input line 1181. on i
+nput line 1181.
 Package pdftex.def Info: Requested size: 377.15558pt x 299.46603pt on input lin
-e 1172.
- [43 <./admin_panel.png> <./admin_panel_user_management.png>]
+e 1181.
+
+[44 <./admin_panel.png> <./admin_panel_user_management.png>]
 
 Package caption Warning: Unused \captionsetup[table] on input line 13.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1176.
-[44 <./admin_panel_reports.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1176.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1185.
+[45 <./admin_panel_reports.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1185.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1176.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1176.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1185.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1185.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F2C778BE4155636C9D2EEA0BD5346922;9739.
+(rerunfilecheck)             Checksum: E536ADB53812B9E0A37802F2F9354436;9800.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1176.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1185.
  ) 
 Here is how much of TeX's memory you used:
- 28883 strings out of 493312
- 531706 string characters out of 3138898
+ 28891 strings out of 493312
+ 531878 string characters out of 3138898
  984053 words of memory out of 3000000
- 31696 multiletter control sequences out of 15000+200000
+ 31701 multiletter control sequences out of 15000+200000
  546911 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,65p,10424b,2254s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2378,9 +2392,9 @@ ers\Cinek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1200.
 pk> <C:\Users\Cinek\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \eccc1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb>
-Output written on main.pdf (45 pages, 1385026 bytes).
+Output written on main.pdf (46 pages, 1455534 bytes).
 PDF statistics:
- 1506 PDF objects out of 1728 (max. 8388607)
- 345 named destinations out of 1000 (max. 500000)
- 1155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1520 PDF objects out of 1728 (max. 8388607)
+ 348 named destinations out of 1000 (max. 500000)
+ 1168 words of extra memory for PDF output out of 10000 (max. 10000000)
 

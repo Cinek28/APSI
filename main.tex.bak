@@ -1131,7 +1131,7 @@ Diagram przypadku użycia:
 
 \begin{figure}[H]
 \centering
-\includegraphics[scale=1]{database.jpg}
+\includegraphics[scale=0.5]{database.jpg}
 \end{figure}
 
 \chapter{Interfejs użytkownika}
@@ -1139,26 +1139,38 @@ Poniżej zamieszczono przykładowe elementy interfejsu użytkownika:
 
 \begin{figure}[H]
 \centering
-\includegraphics[scale=1]{login_panel.jpg}
+\includegraphics[scale=0.5]{login_panel.png}
 \captionof{figure}{Panel logowania}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[scale=1]{logout_panel.jpg}
+\includegraphics[scale=0.5]{logout_panel.png}
 \captionof{figure}{Okno wylogowania}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[scale=1]{register_user_panel.jpg}
+\includegraphics[scale=0.8]{register_user_panel.png}
 \captionof{figure}{Panel rejestrowania nowego użytkownika}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[scale=1]{login_panel.jpg}
-\captionof{figure}{Panel logowania}
+\includegraphics[scale=0.45]{admin_panel.png}
+\captionof{figure}{Panel administratora- karta zasobów}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.45]{admin_panel_user_management.png}
+\captionof{figure}{Panel administratora- karta zarządzania użytkownikami}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.45]{admin_panel_reports.png}
+\captionof{figure}{Panel administratora- karta raportów}
 \end{figure}
 
 \end{document}
